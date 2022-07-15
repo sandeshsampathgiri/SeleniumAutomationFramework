@@ -18,7 +18,7 @@ public class LoginPage extends BaseClass {
 	@FindBy(name="login:login")
 	WebElement loginBtn;
 	
-	@FindBy(xpath="//a[@class='logo']")
+	@FindBy(xpath="//a[@class='logo123']")
 	WebElement capsuleCRMLogo;
 	
 	//Initialize the above elements using PageFactory inside the constructor:

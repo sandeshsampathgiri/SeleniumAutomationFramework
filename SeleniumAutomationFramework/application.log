@@ -1,0 +1,72 @@
+2022-07-16 00:43:58,094  INFO [main] BaseClass:60 - Initializing chrome browser
+2022-07-16 00:43:58,840 DEBUG [main] ResolutionCache:187 - Resolution chrome=103 in cache (valid until 00:54:52 16/07/2022 IST)
+2022-07-16 00:43:58,842 DEBUG [main] ResolutionCache:187 - Resolution chrome103=103.0.5060.53 in cache (valid until 13:53:08 16/07/2022 IST)
+2022-07-16 00:43:58,843  INFO [main] WebDriverManager:625 - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+2022-07-16 00:43:58,870 DEBUG [main] WebDriverManager:582 - Driver chromedriver 103.0.5060.53 found in cache
+2022-07-16 00:43:58,871  INFO [main] WebDriverManager:682 - Exporting webdriver.chrome.driver as C:\Users\sande\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-16 00:43:58,890  INFO [main] BaseClass:64 - opening the browser in maximized mode
+2022-07-16 00:43:58,891  INFO [main] BaseClass:66 - opening the browser in incognito mode
+2022-07-16 00:44:04,577  INFO [main] LoginPageTest:32 - Test to  verify the page title
+2022-07-16 00:44:04,746  INFO [main] BaseClass:60 - Initializing chrome browser
+2022-07-16 00:44:04,773 DEBUG [main] ResolutionCache:187 - Resolution chrome=103 in cache (valid until 00:54:52 16/07/2022 IST)
+2022-07-16 00:44:04,775 DEBUG [main] ResolutionCache:187 - Resolution chrome103=103.0.5060.53 in cache (valid until 13:53:08 16/07/2022 IST)
+2022-07-16 00:44:04,777  INFO [main] WebDriverManager:625 - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+2022-07-16 00:44:04,802 DEBUG [main] WebDriverManager:582 - Driver chromedriver 103.0.5060.53 found in cache
+2022-07-16 00:44:04,803  INFO [main] WebDriverManager:682 - Exporting webdriver.chrome.driver as C:\Users\sande\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-16 00:44:04,804  INFO [main] BaseClass:64 - opening the browser in maximized mode
+2022-07-16 00:44:04,806  INFO [main] BaseClass:66 - opening the browser in incognito mode
+2022-07-16 00:44:08,326  INFO [main] LoginPageTest:32 - Test to  verify the page title
+2022-07-16 00:44:08,516  INFO [main] BaseClass:60 - Initializing chrome browser
+2022-07-16 00:44:08,538 DEBUG [main] ResolutionCache:187 - Resolution chrome=103 in cache (valid until 00:54:52 16/07/2022 IST)
+2022-07-16 00:44:08,539 DEBUG [main] ResolutionCache:187 - Resolution chrome103=103.0.5060.53 in cache (valid until 13:53:08 16/07/2022 IST)
+2022-07-16 00:44:08,541  INFO [main] WebDriverManager:625 - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+2022-07-16 00:44:08,562 DEBUG [main] WebDriverManager:582 - Driver chromedriver 103.0.5060.53 found in cache
+2022-07-16 00:44:08,565  INFO [main] WebDriverManager:682 - Exporting webdriver.chrome.driver as C:\Users\sande\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-16 00:44:08,567  INFO [main] BaseClass:64 - opening the browser in maximized mode
+2022-07-16 00:44:08,567  INFO [main] BaseClass:66 - opening the browser in incognito mode
+2022-07-16 00:44:12,964  INFO [main] LoginPageTest:32 - Test to  verify the page title
+2022-07-16 00:44:13,113  INFO [main] BaseClass:60 - Initializing chrome browser
+2022-07-16 00:44:13,134 DEBUG [main] ResolutionCache:187 - Resolution chrome=103 in cache (valid until 00:54:52 16/07/2022 IST)
+2022-07-16 00:44:13,137 DEBUG [main] ResolutionCache:187 - Resolution chrome103=103.0.5060.53 in cache (valid until 13:53:08 16/07/2022 IST)
+2022-07-16 00:44:13,138  INFO [main] WebDriverManager:625 - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+2022-07-16 00:44:13,167 DEBUG [main] WebDriverManager:582 - Driver chromedriver 103.0.5060.53 found in cache
+2022-07-16 00:44:13,168  INFO [main] WebDriverManager:682 - Exporting webdriver.chrome.driver as C:\Users\sande\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-16 00:44:13,170  INFO [main] BaseClass:64 - opening the browser in maximized mode
+2022-07-16 00:44:13,170  INFO [main] BaseClass:66 - opening the browser in incognito mode
+2022-07-16 00:44:16,690  INFO [main] LoginPageTest:32 - Test to  verify the page title
+2022-07-16 00:44:17,139  INFO [main] BaseClass:60 - Initializing chrome browser
+2022-07-16 00:44:17,163 DEBUG [main] ResolutionCache:187 - Resolution chrome=103 in cache (valid until 00:54:52 16/07/2022 IST)
+2022-07-16 00:44:17,165 DEBUG [main] ResolutionCache:187 - Resolution chrome103=103.0.5060.53 in cache (valid until 13:53:08 16/07/2022 IST)
+2022-07-16 00:44:17,166  INFO [main] WebDriverManager:625 - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+2022-07-16 00:44:17,182 DEBUG [main] WebDriverManager:582 - Driver chromedriver 103.0.5060.53 found in cache
+2022-07-16 00:44:17,184  INFO [main] WebDriverManager:682 - Exporting webdriver.chrome.driver as C:\Users\sande\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-16 00:44:17,185  INFO [main] BaseClass:64 - opening the browser in maximized mode
+2022-07-16 00:44:17,185  INFO [main] BaseClass:66 - opening the browser in incognito mode
+2022-07-16 00:44:20,716  INFO [main] LoginPageTest:39 - Test to verify the display of logo
+2022-07-16 00:44:40,952  INFO [main] BaseClass:60 - Initializing chrome browser
+2022-07-16 00:44:40,971 DEBUG [main] ResolutionCache:187 - Resolution chrome=103 in cache (valid until 00:54:52 16/07/2022 IST)
+2022-07-16 00:44:40,974 DEBUG [main] ResolutionCache:187 - Resolution chrome103=103.0.5060.53 in cache (valid until 13:53:08 16/07/2022 IST)
+2022-07-16 00:44:40,975  INFO [main] WebDriverManager:625 - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+2022-07-16 00:44:41,007 DEBUG [main] WebDriverManager:582 - Driver chromedriver 103.0.5060.53 found in cache
+2022-07-16 00:44:41,008  INFO [main] WebDriverManager:682 - Exporting webdriver.chrome.driver as C:\Users\sande\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-16 00:44:41,008  INFO [main] BaseClass:64 - opening the browser in maximized mode
+2022-07-16 00:44:41,009  INFO [main] BaseClass:66 - opening the browser in incognito mode
+2022-07-16 00:44:44,518  INFO [main] LoginPageTest:39 - Test to verify the display of logo
+2022-07-16 00:45:04,765  INFO [main] BaseClass:60 - Initializing chrome browser
+2022-07-16 00:45:04,783 DEBUG [main] ResolutionCache:187 - Resolution chrome=103 in cache (valid until 00:54:52 16/07/2022 IST)
+2022-07-16 00:45:04,785 DEBUG [main] ResolutionCache:187 - Resolution chrome103=103.0.5060.53 in cache (valid until 13:53:08 16/07/2022 IST)
+2022-07-16 00:45:04,785  INFO [main] WebDriverManager:625 - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+2022-07-16 00:45:04,802 DEBUG [main] WebDriverManager:582 - Driver chromedriver 103.0.5060.53 found in cache
+2022-07-16 00:45:04,803  INFO [main] WebDriverManager:682 - Exporting webdriver.chrome.driver as C:\Users\sande\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-16 00:45:04,804  INFO [main] BaseClass:64 - opening the browser in maximized mode
+2022-07-16 00:45:04,804  INFO [main] BaseClass:66 - opening the browser in incognito mode
+2022-07-16 00:45:08,299  INFO [main] LoginPageTest:39 - Test to verify the display of logo
+2022-07-16 00:45:28,472  INFO [main] BaseClass:60 - Initializing chrome browser
+2022-07-16 00:45:28,491 DEBUG [main] ResolutionCache:187 - Resolution chrome=103 in cache (valid until 00:54:52 16/07/2022 IST)
+2022-07-16 00:45:28,493 DEBUG [main] ResolutionCache:187 - Resolution chrome103=103.0.5060.53 in cache (valid until 13:53:08 16/07/2022 IST)
+2022-07-16 00:45:28,494  INFO [main] WebDriverManager:625 - Using chromedriver 103.0.5060.53 (resolved driver for Chrome 103)
+2022-07-16 00:45:28,518 DEBUG [main] WebDriverManager:582 - Driver chromedriver 103.0.5060.53 found in cache
+2022-07-16 00:45:28,521  INFO [main] WebDriverManager:682 - Exporting webdriver.chrome.driver as C:\Users\sande\.cache\selenium\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-16 00:45:28,523  INFO [main] BaseClass:64 - opening the browser in maximized mode
+2022-07-16 00:45:28,523  INFO [main] BaseClass:66 - opening the browser in incognito mode
+2022-07-16 00:45:32,108  INFO [main] LoginPageTest:39 - Test to verify the display of logo

@@ -25,6 +25,11 @@ public class Utilities extends BaseClass{
 	public static Workbook book;
 	public static Sheet sheet;
 	public static WebDriver driver;
+	
+	public Utilities()
+	{
+		this.driver = driver;
+	}
 
 	public static Object[][] getTestData(String sheetName) {
 
@@ -64,15 +69,13 @@ public class Utilities extends BaseClass{
 
 	}
 	
-	public static void takeScreenshot()
-	{
-		File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-		String currentDir = System.getProperty("user.dir");
-		try {
-			FileUtils.copyFile(src,new File(currentDir + "\\screenshots\\" + System.currentTimeMillis()+".png"));
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+	public static String getScreenshotPath(String testcaseName, WebDriver driver) throws IOException {
+		TakesScreenshot ts = (TakesScreenshot) driver;
+		File source = ts.getScreenshotAs(OutputType.FILE);
+		String destination = System.getProperty("user.dir") + "\\screenshots\\" + testcaseName + ".jpg";
+		File file = new File(destination);
+		FileUtils.copyFile(source, file);
+		return destination;
+
 	}
 }

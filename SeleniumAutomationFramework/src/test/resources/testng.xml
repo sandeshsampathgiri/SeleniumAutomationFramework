@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-	<test thread-count="5" name="Test">
+	<listeners>
+		<listener class-name="com.qa.capsulecrm.listeners.MyTransformer" />
+		<listener class-name="com.qa.capsulecrm.listeners.MyListener" />
+	</listeners>
+	
+	<test thread-count="5" name="RetryFailedTests">
 		<classes>
 			<class name="com.qa.capsulecrm.tests.LoginPageTest" />
 			<!--<class name="com.qa.capsulecrm.tests.HomePageTest" />
